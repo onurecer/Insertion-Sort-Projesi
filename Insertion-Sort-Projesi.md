@@ -1,5 +1,5 @@
 # Insertion-Sort-Projesi
-Insertion Sort Project by patika.dev
+Insertion Sort Project by www.patika.dev
 
 ## 1. Soru  [22,27,16,2,18,6] -> Insertion Sort
 
